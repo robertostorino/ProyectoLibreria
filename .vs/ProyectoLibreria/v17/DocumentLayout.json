@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3068818B-B957-4B72-A1C4-A4912ED791AC}|ProyectoLibreria\\ProyectoLibreria.csproj|d:\\cursos\\pruebas\\proyectolibreria\\proyectolibreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3068818B-B957-4B72-A1C4-A4912ED791AC}|ProyectoLibreria\\ProyectoLibreria.csproj|solutionrelative:proyectolibreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED60EBC-ED5B-42DE-8CD7-EE1CA5F44BC6}|LibreriaClases\\LibreriaClases.csproj|d:\\cursos\\pruebas\\proyectolibreria\\libreriaclases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED60EBC-ED5B-42DE-8CD7-EE1CA5F44BC6}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED60EBC-ED5B-42DE-8CD7-EE1CA5F44BC6}|LibreriaClases\\LibreriaClases.csproj|d:\\cursos\\pruebas\\proyectolibreria\\libreriaclases\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED60EBC-ED5B-42DE-8CD7-EE1CA5F44BC6}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED60EBC-ED5B-42DE-8CD7-EE1CA5F44BC6}|LibreriaClases\\LibreriaClases.csproj|d:\\cursos\\pruebas\\proyectolibreria\\libreriaclases\\enums\\enumperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED60EBC-ED5B-42DE-8CD7-EE1CA5F44BC6}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\enums\\enumperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED60EBC-ED5B-42DE-8CD7-EE1CA5F44BC6}|LibreriaClases\\LibreriaClases.csproj|d:\\cursos\\pruebas\\proyectolibreria\\libreriaclases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED60EBC-ED5B-42DE-8CD7-EE1CA5F44BC6}|LibreriaClases\\LibreriaClases.csproj|solutionrelative:libreriaclases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "enumPerfil.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\LibreriaClases\\Enums\\enumPerfil.cs",
+              "RelativeDocumentMoniker": "LibreriaClases\\Enums\\enumPerfil.cs",
+              "ToolTip": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\LibreriaClases\\Enums\\enumPerfil.cs",
+              "RelativeToolTip": "LibreriaClases\\Enums\\enumPerfil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:00:00.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\LibreriaClases\\Profesor.cs",
+              "RelativeDocumentMoniker": "LibreriaClases\\Profesor.cs",
+              "ToolTip": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\LibreriaClases\\Profesor.cs",
+              "RelativeToolTip": "LibreriaClases\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:00:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\LibreriaClases\\Persona.cs",
+              "RelativeDocumentMoniker": "LibreriaClases\\Persona.cs",
+              "ToolTip": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\LibreriaClases\\Persona.cs",
+              "RelativeToolTip": "LibreriaClases\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:00:00.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\LibreriaClases\\Alumno.cs",
+              "RelativeDocumentMoniker": "LibreriaClases\\Alumno.cs",
+              "ToolTip": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\LibreriaClases\\Alumno.cs",
+              "RelativeToolTip": "LibreriaClases\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:00:00.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\ProyectoLibreria\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Pruebas\\ProyectoLibreria\\ProyectoLibreria\\Program.cs",
+              "RelativeToolTip": "ProyectoLibreria\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:00:00.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
